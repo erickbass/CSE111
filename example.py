@@ -3,7 +3,7 @@
 def main():
     print("This program computes the fuel efficiency")
     print("of your vehicle in miles per gallon.")
-
+    print("inf")
     prev_odom = float(input("Enter the previous odometer reading in miles: "))
     curr_odom = float(input("Enter the current odometer reading in miles: "))
     fuel_amount = float(input("Enter the amount of fuel in U.S. gallons: "))
