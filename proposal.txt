@@ -1,0 +1,32 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+Thecnical Support Calendar
+
+2. What real-world problem will your program address or help to solve?
+Make a calendar in python where a person in charge of technical support places the dates and appointments with the clients and keeps track of them, each of the services to be performed will be registered and the client information will be saved.
+
+3. What will you learn from developing this program?
+Learn to use graphic libraries that allow me to work with the calendar visually, also use content display functions.
+
+4. What Python modules will your program use?
+
+    Tkinter, Datetime
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+
+Yes, functions will be used to carry out the different procedures in the same application and that it works independently of the user input
+
+6. Will you write test functions to test at least two of your program
+functions?
+Yes
